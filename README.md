@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Natalie</h1>
 <h3>A passionate frontend developer from Germany</h3>
 
-- 💬 Ask me about **typo3, vue and scss**
+- 💬 Ask me about **TYPO3, vue and scss**
 
 - 📫 How to reach me **hello@idle-binary.it**
 
